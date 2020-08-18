@@ -1,0 +1,26 @@
+.display {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.square {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+
+.grid {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+}
+
+.mole {
+    background-color: blueviolet;
+    background-size: cover;
+}
